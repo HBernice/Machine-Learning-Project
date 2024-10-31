@@ -10,3 +10,4 @@ The final step was to extract the new and cleaned dataset and move on to the nex
 ##SECOND STEPS
 
 Data splitting,model building. model fitting or train,making predictions and Evaluation by use of metrics are the actions I took on the Step Two Machine Learning Project.
+I used RandomForest Classifier algorithm.
